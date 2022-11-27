@@ -1,0 +1,24 @@
+#nom{
+    
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF
+  }
+
+#prenom{
+    
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+#age{
+    
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  }
+
+
+#ville{
+    
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#chois{
+    text-shadow: 2px 2px 5px red;
+  }
